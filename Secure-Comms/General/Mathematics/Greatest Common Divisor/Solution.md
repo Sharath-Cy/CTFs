@@ -1,0 +1,1 @@
+GCD of given value is : 1512
